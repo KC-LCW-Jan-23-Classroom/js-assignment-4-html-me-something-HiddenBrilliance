@@ -1,1 +1,72 @@
-/* Write your CSS here! */
+
+
+
+
+body {
+    background-color: #F0EAD6 ;
+    margin: 8px;
+    display: block;
+    
+}
+
+div {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+
+
+h1 {
+   text-align: center;
+
+}
+
+article {
+    text-size-adjust: 12px;
+}
+
+
+
+
+p {
+    /* margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px; */
+}
+
+#mainHeading {
+    color: red;
+}
+.center-footer-content {
+    text-align: center;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.funParagraph{
+    color: green;
+}
+
+.size-img {
+    height: 500px;
+    width: 500px;
+}
+
+.smaller-img {
+    height: 500px;
+    width: 500px;
+}
+
+.center-text {
+    align-items: center;
+}
+
+
